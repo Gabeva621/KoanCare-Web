@@ -1,4 +1,4 @@
 {
-  "origin": "https://calculations-interface-profession-les.trycloudflare.com",
-  "enabled": true
+  "enabled": true,
+  "origin": "https://pilot-interface-taylor-planet.trycloudflare.com"
 }
